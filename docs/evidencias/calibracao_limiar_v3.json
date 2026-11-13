@@ -1,0 +1,95 @@
+{
+ "dentro_do_tema": [
+  [
+   "Posso estacionar em cima da calçada?",
+   0.651
+  ],
+  [
+   "Quando devo usar o farol baixo durante o dia?",
+   0.684
+  ],
+  [
+   "O que é uma via de trânsito rápido?",
+   0.556
+  ],
+  [
+   "Ultrapassar pela direita é permitido?",
+   0.729
+  ],
+  [
+   "Moto pode levar criança pequena na garupa?",
+   0.617
+  ],
+  [
+   "Quem tem preferência numa rotatória?",
+   0.485
+  ],
+  [
+   "Pode dirigir com a carteira vencida?",
+   0.602
+  ],
+  [
+   "O que acontece se eu avançar o sinal vermelho?",
+   0.701
+  ],
+  [
+   "Quantos pontos dá uma infração leve?",
+   0.639
+  ],
+  [
+   "Ambulância com sirene ligada tem prioridade?",
+   0.616
+  ]
+ ],
+ "fora_do_tema": [
+  [
+   "Qual é a capital da Austrália?",
+   0.292
+  ],
+  [
+   "Como faço um currículo?",
+   0.52
+  ],
+  [
+   "Qual o melhor time de futebol do Brasil?",
+   0.358
+  ],
+  [
+   "Como cuidar de um cachorro filhote?",
+   0.431
+  ],
+  [
+   "Quanto é 15 vezes 8?",
+   0.418
+  ],
+  [
+   "Qual remédio tomar para dor de cabeça?",
+   0.37
+  ],
+  [
+   "Como funciona a fotossíntese?",
+   0.369
+  ],
+  [
+   "Quem escreveu Dom Casmurro?",
+   0.219
+  ],
+  [
+   "Como declarar imposto de renda?",
+   0.493
+  ],
+  [
+   "Qual a previsão do tempo para amanhã?",
+   0.393
+  ]
+ ],
+ "menor_dentro": 0.485,
+ "maior_fora": 0.52,
+ "ponto_medio": 0.502,
+ "limiar_em_uso": 0.45,
+ "dentro_barradas_pelo_limiar": [],
+ "fora_que_passam_pelo_limiar": [
+  "Como faço um currículo?",
+  "Como declarar imposto de renda?"
+ ]
+}

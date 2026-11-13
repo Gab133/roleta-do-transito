@@ -1,0 +1,33 @@
+== Parte A: matriz do guia
+T01 ✅ ok | 'Sem sinalização, a velocidade máxima em rodovias de pista simples é de 100 km/h. Este limite se aplica a autom'
+T02 ✅ ok | 'A regra geral é que crianças com menos de 10 anos devem ser transportadas nos bancos traseiros do veículo. Iss'
+T03 ✅ ok | 'Uma infração de natureza grave computa cinco pontos. Essa pontuação é prevista no Art. 259 do Código de Trânsi'
+T04 ✅ ok | 'O valor da multa para uma infração gravíssima é de R$ 293,47. Este valor corresponde a duzentos e noventa e tr'
+T05 ✅ ok | 'A recusa em fazer o teste de alcoolemia é uma infração gravíssima (Art. 165-A). As penalidades incluem multa ('
+T06 ✅ ok | 'Sim, o pedestre que ainda não terminou de atravessar tem preferência. Essa regra se aplica mesmo quando o semá'
+T07 ✅ ok | 'Não encontrei isso no Código de Trânsito. Não posso responder sem uma fonte.'
+T08 ✅ ok | 'Não encontrei isso no Código de Trânsito. Não posso responder sem uma fonte.'
+T09 ✅ ok | 'Não encontrei isso no Código de Trânsito. Não posso responder sem uma fonte.'
+T10 ✅ ok | 'Não encontrei isso no Código de Trânsito. Não posso responder sem uma fonte.'
+== Parte B: perguntas do quiz
+✅ busca  ✅ citação | Art. 61 | ['Art. 61', 'Art. 218', 'Art. 61', 'Art. 61']
+✅ busca  ✅ citação | Art. 61 | ['Art. 61', 'Art. 61', 'Art. 218', 'Art. 61']
+✅ busca  ✅ citação | Art. 61 | ['Art. 61', 'Art. 218', 'Art. 61', 'Art. 61']
+✅ busca  ✅ citação | Art. 218 | ['Art. 218', 'Art. 170', 'Art. 220', 'Art. 166']
+✅ busca  ✅ citação | Art. 65 | ['Art. 65', 'Art. 167', 'Art. 28', 'Art. 105']
+✅ busca  ✅ citação | Art. 64 | ['Art. 64', 'Art. 181', 'Art. 181', 'Art. 181']
+✅ busca  ✅ citação | Art. 54 | ['Art. 54', 'Art. 244', 'Art. 244', 'Art. 244']
+✅ busca  ✅ citação | Art. 167 | ['Art. 167', 'Art. 192', 'Art. 177', 'Art. 209-A']
+✅ busca  ✅ citação | Art. 276 | ['Art. 276', 'Art. 165', 'Art. 165-A', 'Art. 306']
+✅ busca  ✅ citação | Art. 165 | ['Art. 165', 'Art. 306', 'Art. 310', 'Art. 261']
+✅ busca  ✅ citação | Art. 165-A | ['Art. 165-A', 'Art. 165-B', 'Art. 307', 'Art. 238']
+✅ busca  ✅ citação | Art. 252 | ['Art. 252', 'Art. 166', 'Art. 170', 'Art. 162']
+✅ busca  ✅ citação | Art. 140 | ['Art. 140', 'Art. 159', 'Art. 147', 'Art. 159']
+✅ busca  ✅ citação | Art. 148 | ['Art. 293', 'Art. 148', 'Art. 309', 'Art. 261']
+✅ busca  ✅ citação | Art. 259 | ['Art. 259', 'Art. 261', 'Art. 258', 'Art. 307']
+✅ busca  ✅ citação | Art. 261 | ['Art. 261', 'Art. 261', 'Art. 261', 'Art. 261']
+✅ busca  ✅ citação | Art. 70 | ['Art. 70', 'Art. 68', 'Art. 214', 'Art. 69']
+✅ busca  ✅ citação | Art. 69 | ['Art. 69', 'Art. 70', 'Art. 214', 'Art. 201']
+✅ busca  ✅ citação | Art. 68 | ['Art. 68', 'Art. 255', 'Art. 59', 'Art. 68']
+✅ busca  ✅ citação | Art. 58 | ['Art. 58', 'Art. 57', 'Art. 59', 'Art. 68']
+RESUMO: {'matriz': '10/10', 'quiz_busca': '20/20', 'quiz_citacao': '20/20'}

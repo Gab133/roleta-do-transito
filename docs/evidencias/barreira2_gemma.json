@@ -1,0 +1,17 @@
+{
+ "Como faço um currículo?": {
+  "status": "sem_fonte",
+  "resposta": "Não encontrei isso no Código de Trânsito. Não posso responder sem uma fonte.",
+  "melhor_similaridade": 0.52
+ },
+ "Como declarar imposto de renda?": {
+  "status": "sem_fonte",
+  "resposta": "Não encontrei isso no Código de Trânsito. Não posso responder sem uma fonte.",
+  "melhor_similaridade": 0.493
+ },
+ "Quem tem preferência numa rotatória?": {
+  "status": "respondida",
+  "resposta": "Aquele que estiver circulando por ela tem preferência de passagem no caso de rotatória (Art. 29).",
+  "melhor_similaridade": 0.485
+ }
+}

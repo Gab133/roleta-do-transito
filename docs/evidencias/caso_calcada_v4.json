@@ -1,0 +1,14 @@
+{
+ "Posso estacionar em cima da calçada?": {
+  "status": "respondida",
+  "resposta": "Não é permitido estacionar no passeio. Essa ação é classificada como uma infração grave. A penalidade é multa e remoção do veículo (Art. 181).",
+  "trecho_usado": "VIII - no passeio ou sobre faixa destinada a pedestre, sobre ciclovia ou ciclofaixa, bem como nas ilhas. refúgios, ao lado ou sobre canteiros centrais, divisores de pista de rolamento, marcas de canalização, gramados ou jardim público: Infração - grave; Penalidade - multa; Medida administrativa - remoção do veículo.",
+  "trechos": [
+   "Art. 181",
+   "Art. 181",
+   "Art. 48",
+   "Art. 193"
+  ],
+  "melhor_similaridade": 0.622
+ }
+}
