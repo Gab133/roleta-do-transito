@@ -39,7 +39,7 @@ citado). Todos os prints estão em [docs/prints](docs/prints).
 | [Fontes](docs/FONTES.md) | De onde veio a lei, data da coleta e licença |
 | [Apresentação](docs/Apresentacao_Roleta_do_Transito.pptx) | Slides |
 
-Equipe: Gabriel Braga, Evandro Eufrasio e Ana Luíza.
+Equipe: Gabriel Braga, Evandro Eufrasio e Ana Luíza, Levi Davi
 
 ## Como rodar
 
